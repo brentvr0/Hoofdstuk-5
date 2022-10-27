@@ -1,13 +1,8 @@
 h1, h2, h3 {
     font-family: Arial;
-
 }
-
-
-
 h1 {
     font-size: 1.8em;
-
 }
 h2 {
     font-size: 1.5em;
@@ -15,20 +10,16 @@ h2 {
 h3 {
     font-size: 1.4em;
 }
-
 p {
     font-family: "Times New Roman", Times, serif;
     font-size: 1.2em;
 }
-
-
-
-.para1{
+.par1{
     color:red;
 }
-.para2{
+.par2{
      color:green;
  }
-.para3{
+.par3{
     color:blue;
 }
